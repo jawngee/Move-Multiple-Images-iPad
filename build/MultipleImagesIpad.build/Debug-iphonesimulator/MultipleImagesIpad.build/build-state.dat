@@ -1,0 +1,343 @@
+TMultipleImagesIpad
+v7
+r0
+t300143082.167729
+cCheck dependencies
+cProcessInfoPlistFile /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/Info.plist MultipleImagesIpad-Info.plist
+cCompileXIB /Users/jon/Dropbox/Projects/MultipleImagesIpad/MainWindow.xib
+cCompileXIB /Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpadViewController.xib
+cCpResource build/Debug-iphonesimulator/MultipleImagesIpad.app/sample1.jpg sample1.jpg
+cCpResource build/Debug-iphonesimulator/MultipleImagesIpad.app/sample2.jpg sample2.jpg
+cCpResource build/Debug-iphonesimulator/MultipleImagesIpad.app/sample3.jpg sample3.jpg
+cProcessPCH /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch.gch MultipleImagesIpad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/main.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadAppDelegate.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadViewController.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/UIMovableImageView.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad normal i386
+cGenerateDSYMFile /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app.dSYM /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad
+cTouch /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C1FC6DD0000000000000110
+t1277150941
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.h
+c000000004C3398C90000000000000220
+t1278449865
+s544
+i<UIKit/UIKit.h>
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m
+c000000004C3398C900000000000007E0
+t1278449865
+s2016
+i"MultipleImagesIpadAppDelegate.h"
+i"MultipleImagesIpadViewController.h"
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.h
+c000000004C3398C9000000000000010E
+t1278449865
+s270
+i<UIKit/UIKit.h>
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m
+c000000004C3398C9000000000000057B
+t1278449865
+s1403
+i"MultipleImagesIpadViewController.h"
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.h
+c000000004C33990A00000000000000ED
+t1278449930
+s237
+i<UIKit/UIKit.h>
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m
+c000000004C3399B00000000000000316
+t1278450096
+s790
+i"UIMovableImageView.h"
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/MainWindow.xib
+c000000004C339A290000000000006849
+t1278450217
+s26697
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpadViewController.xib
+c000000004C339A680000000000005078
+t1278450280
+s20600
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpad_Prefix.pch
+c000000004C3398C900000000000000CD
+t1278449865
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app
+t1278450282
+s340
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app.dSYM
+t1278450099
+s102
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/Info.plist
+t1278450097
+s848
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MainWindow.nib
+t1278450218
+s1773
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad
+t1278450099
+s18776
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpadViewController.nib
+t1278450282
+s1320
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/PkgInfo
+t1278450097
+s8
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/sample1.jpg
+t1278450097
+s84922
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/sample2.jpg
+t1278450097
+s78398
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/sample3.jpg
+t1278450097
+s24983
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpad.LinkFileList
+c000000004C3399B100000000000002A3
+t1278450097
+s675
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadAppDelegate.o
+t1278450099
+s45616
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadViewController.o
+t1278450099
+s34580
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/UIMovableImageView.o
+t1278450099
+s13492
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/main.o
+t1278450099
+s6320
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m
+c000000004C3398C90000000000000173
+t1278449865
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/sample1.jpg
+c000000004C33986B0000000000014BBA
+t1278449771
+s84922
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/sample2.jpg
+c000000004C339889000000000001323E
+t1278449801
+s78398
+
+N/Users/jon/Dropbox/Projects/MultipleImagesIpad/sample3.jpg
+c000000004C3398920000000000006197
+t1278449810
+s24983
+
+N/var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch.gch
+t1278450098
+s13825936
+
+NMultipleImagesIpad-Info.plist
+c000000004C3398C900000000000004D6
+t1278449865
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300143081#300143081#0(0"0(0#1#0"8615958304#0"0#
+
+CCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadAppDelegate.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300142899.193892
+e300142899.293498
+r1
+xCompileC
+xbuild/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadAppDelegate.o
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m300142899#300142899#0(0"0(0#0#86"/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m8618489888#2267"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-generated-files.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-own-target-headers.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-all-target-headers.hmap -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-project-headers.hmap -F/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/include -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources/i386 -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources -include /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch -c /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadAppDelegate.m -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadAppDelegate.o0#
+
+CCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadViewController.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300142899.197564
+e300142899.293134
+r1
+xCompileC
+xbuild/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadViewController.o
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m300142899#300142899#0(0"0(0#0#89"/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m8617314304#2273"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-generated-files.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-own-target-headers.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-all-target-headers.hmap -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-project-headers.hmap -F/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/include -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources/i386 -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources -include /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch -c /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/MultipleImagesIpadViewController.m -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpadViewController.o0#
+
+CCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/UIMovableImageView.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300142899.199088
+e300142899.292755
+r1
+xCompileC
+xbuild/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/UIMovableImageView.o
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m300142899#300142899#0(0"0(0#0#75"/Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m8616482592#2245"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-generated-files.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-own-target-headers.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-all-target-headers.hmap -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-project-headers.hmap -F/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/include -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources/i386 -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources -include /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch -c /Users/jon/Dropbox/Projects/MultipleImagesIpad/Classes/UIMovableImageView.m -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/UIMovableImageView.o0#
+
+CCompileC build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/main.o /Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300142899.192776
+e300142899.291961
+r1
+xCompileC
+xbuild/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/main.o
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m300142899#300142899#0(0"0(0#0#53"/Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m8616478176#2209"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-generated-files.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-own-target-headers.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-all-target-headers.hmap -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-project-headers.hmap -F/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/include -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources/i386 -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources -include /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch -c /Users/jon/Dropbox/Projects/MultipleImagesIpad/main.m -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jon/Dropbox/Projects/MultipleImagesIpad/MainWindow.xib
+s300143018.478946
+e300143018.870970
+r1
+xCompileXIB
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300143018#300143018#0(0"0(0#0#61"/Users/jon/Dropbox/Projects/MultipleImagesIpad/MainWindow.xib22518200008179824#605"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MainWindow.nib /Users/jon/Dropbox/Projects/MultipleImagesIpad/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpadViewController.xib
+s300143081.798231
+e300143082.164309
+r1
+xCompileXIB
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpadViewController.xib
+lSLF07#2@47"CompileXIB MultipleImagesIpadViewController.xib300143081#300143082#0(0"0(0#0#83"/Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpadViewController.xib8615752256#649"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpadViewController.nib /Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpadViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MultipleImagesIpad.app/sample1.jpg sample1.jpg
+s300142897.354521
+e300142897.384638
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultipleImagesIpad.app/sample1.jpg
+xsample1.jpg
+lSLF07#2@16"Copy sample1.jpg300142897#300142897#0(0"0(0#0#58"/Users/jon/Dropbox/Projects/MultipleImagesIpad/sample1.jpg8618464800#490"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jon/Dropbox/Projects/MultipleImagesIpad/sample1.jpg /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app0#
+
+CCpResource build/Debug-iphonesimulator/MultipleImagesIpad.app/sample2.jpg sample2.jpg
+s300142897.355096
+e300142897.384956
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultipleImagesIpad.app/sample2.jpg
+xsample2.jpg
+lSLF07#2@16"Copy sample2.jpg300142897#300142897#0(0"0(0#0#58"/Users/jon/Dropbox/Projects/MultipleImagesIpad/sample2.jpg8610214688#490"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jon/Dropbox/Projects/MultipleImagesIpad/sample2.jpg /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app0#
+
+CCpResource build/Debug-iphonesimulator/MultipleImagesIpad.app/sample3.jpg sample3.jpg
+s300142897.355651
+e300142897.383575
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MultipleImagesIpad.app/sample3.jpg
+xsample3.jpg
+lSLF07#2@16"Copy sample3.jpg300142897#300142897#0(0"0(0#0#58"/Users/jon/Dropbox/Projects/MultipleImagesIpad/sample3.jpg8617407232#490"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jon/Dropbox/Projects/MultipleImagesIpad/sample3.jpg /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app0#
+
+CGenerateDSYMFile /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app.dSYM /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad
+s300142899.530903
+e300142899.564997
+r1
+xGenerateDSYMFile
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app.dSYM
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/MultipleImagesIpad.app.dSYM build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad300142899#300142899#0(0"0(0#0#116"/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad8618462816#440"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app.dSYM0#
+
+CLd /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad normal i386
+s300142899.293567
+e300142899.530819
+r1
+xLd
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad
+xnormal
+xi386
+lSLF07#2@121"Link /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad300142899#300142899#0(0"0(0#0#0"8615847968#995"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -F/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -filelist /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/Objects-normal/i386/MultipleImagesIpad.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/MultipleImagesIpad0#
+
+CProcessInfoPlistFile /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/Info.plist MultipleImagesIpad-Info.plist
+s300142897.331315
+e300142897.334898
+r1
+xProcessInfoPlistFile
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/Info.plist
+xMultipleImagesIpad-Info.plist
+lSLF07#2@37"Process MultipleImagesIpad-Info.plist300142897#300142897#0(0"0(0#0#76"/Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpad-Info.plist8617988128#536"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultipleImagesIpad-Info.plist -genpkginfo /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app/Info.plist0#
+
+CProcessPCH /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch.gch MultipleImagesIpad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300142897.813706
+e300142899.192503
+r1
+xProcessPCH
+x/var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch.gch
+xMultipleImagesIpad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile MultipleImagesIpad_Prefix.pch300142897#300142899#0(0"0(0#0#76"/Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpad_Prefix.pch8618800128#2082"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-generated-files.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-own-target-headers.hmap -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-all-target-headers.hmap -iquote /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/MultipleImagesIpad-project-headers.hmap -F/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/include -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources/i386 -I/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/MultipleImagesIpad.build/Debug-iphonesimulator/MultipleImagesIpad.build/DerivedSources -c /Users/jon/Dropbox/Projects/MultipleImagesIpad/MultipleImagesIpad_Prefix.pch -o /var/folders/zp/zpH5DKMVGb0TCq2rDKeOWk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultipleImagesIpad_Prefix-ccvgghmdoiefpsawlphwbmbsrhzy/MultipleImagesIpad_Prefix.pch.gch0#
+
+CTouch /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app
+s300143082.164973
+e300143082.167685
+r1
+xTouch
+x/Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app
+lSLF07#2@103"Touch /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app300143082#300143082#0(0"0(0#0#0"8617984832#305"    cd /Users/jon/Dropbox/Projects/MultipleImagesIpad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jon/Dropbox/Projects/MultipleImagesIpad/build/Debug-iphonesimulator/MultipleImagesIpad.app0#
+
